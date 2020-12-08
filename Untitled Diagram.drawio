@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T10:44:43.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Lu8nTuTKIUSSCXbdGOmv" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T01:22:32.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="PrDgD-lvLTG0WtrwRhcq" version="13.10.9" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="1673" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,10 +64,10 @@
         <mxCell id="2a0f93b5c73ef8e7-23" value="&lt;h1&gt;存储层&lt;/h1&gt;&lt;h1&gt;&lt;p style=&quot;font-size: 9px ; font-weight: 400&quot;&gt;&amp;nbsp;预约挂号基础信息会存在数据库或者临时缓存中&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="390" y="709" width="160" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="ScKri1zgRi78ttRRsTPw-2" value="&lt;span&gt;预约挂号数据流程图&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="245" width="250" height="60" as="geometry" />
+        <mxCell id="ScKri1zgRi78ttRRsTPw-2" value="&lt;span&gt;数字医保健康服务平台预约挂号、结果查询、检验检查、账户异动数据流向图&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="-10" width="830" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ScKri1zgRi78ttRRsTPw-3" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=24;rotation=-150;" vertex="1" parent="1">
+        <mxCell id="ScKri1zgRi78ttRRsTPw-3" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=24;rotation=-150;" parent="1" vertex="1">
           <mxGeometry x="320" y="870" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
